@@ -1,0 +1,30 @@
+#!/bin/sh
+echo "enter a number"
+read number
+if test $number -eq 0 ; then
+        echo "zero"
+elif test $number -gt 0 ; then
+        echo "it's a positive number"
+else
+        echo "it's a negative number"
+fi
+#!/bin/sh
+echo "enter a number"
+read number
+if test $number -eq 0 ; then
+        echo "zero"
+elif test $number -gt 0 ; then
+        echo "it's a positive number"
+else
+        echo "it's a negative number"
+fi
+#!/bin/sh
+echo "enter a number"
+read number
+if test $number -eq 0 ; then
+        echo "zero"
+elif test $number -gt 0 ; then
+        echo "it's a positive number"
+else
+        echo "it's a negative number"
+fi
