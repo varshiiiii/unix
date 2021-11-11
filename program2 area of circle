@@ -1,0 +1,13 @@
+#!/bin/sh
+echo "enter radius value"
+read r
+area=`echo 3.14\*$r\*$r|bc`
+echo $area
+~                                                                                                                                             
+~           #!/bin/sh
+echo "enter radius value"
+read r
+area=`echo 3.14\*$r\*$r|bc`
+echo $area
+~                                                                                                                                             
+~           
